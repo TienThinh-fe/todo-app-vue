@@ -1,5 +1,14 @@
 # todo-app
 
+## About
+This app is a tiny project which I built to practice working with Vue and Vuex
+
+### VueJS 3.0: https://vuejs.org/
+
+### Vuex 4.0.2: https://vuex.vuejs.org/
+
+### vuex-persistedstate: https://www.npmjs.com/package/vuex-persistedstate
+
 ## Project setup
 ```
 yarn install
